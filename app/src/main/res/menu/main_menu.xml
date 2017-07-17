@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+   <!--i have to make it show always-->
+    <item android:title="Score: " android:showAsAction="always" android:id="@+id/score"
+        tools:ignore="AppCompatResource" />
+    <item android:title="Smaller Board" android:id="@+id/small"/>
+    <item android:title="Normal Board" android:id="@+id/normal"/>
+    <item android:title="Larger Board" android:id="@+id/large" />
+
+</menu>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="high_score">HighScore</string>
+</resources>
